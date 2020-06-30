@@ -31265,7 +31265,7 @@ Note:  SparkFun currenly only uses the QFN style part</description>
 <sheet>
 <plain>
 <text x="170.434" y="11.43" size="2.54" layer="94">N. Seidle</text>
-<text x="237.744" y="7.366" size="2.54" layer="94">X10</text>
+<text x="237.744" y="7.366" size="2.54" layer="94">v12</text>
 <text x="74.803" y="75.311" size="1.778" layer="97" rot="R90">Power</text>
 <text x="154.178" y="99.06" size="1.778" layer="97">7-Bit Unshifted I2C Address
 Open Jumper (Default): 0x37
